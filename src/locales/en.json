@@ -1,0 +1,96 @@
+{
+  "app": {
+    "name": "A9 OPTIMIZER",
+    "tagline": "Professional Windows Optimization & Diagnostics",
+    "version": "1.0.0"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "optimizer": "Optimizer",
+    "performance": "Performance",
+    "processes": "Processes",
+    "startup": "Startup",
+    "storage": "Storage",
+    "cleanup": "Cleanup",
+    "privacy": "Privacy",
+    "network": "Network",
+    "hardware": "Hardware",
+    "drivers": "Drivers",
+    "tools": "Windows Tools",
+    "ai": "AI Assistant",
+    "reports": "Reports",
+    "settings": "Settings",
+    "about": "About"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Real-time system monitoring and health overview",
+    "healthScore": "A9 Health Score",
+    "cpu": "CPU",
+    "memory": "Memory",
+    "gpu": "GPU",
+    "disk": "Disk",
+    "network": "Network",
+    "temperature": "Temperature",
+    "uptime": "Uptime",
+    "systemOnline": "System Online"
+  },
+  "optimizer": {
+    "title": "Optimizer",
+    "subtitle": "Scan your system for optimization opportunities",
+    "scanSystem": "Scan System",
+    "optimizeNow": "Optimize Now",
+    "scanning": "Scanning...",
+    "optimizing": "Optimizing...",
+    "findings": "findings detected",
+    "actionsSelected": "actions selected",
+    "readyToOptimize": "Ready to Optimize"
+  },
+  "cleanup": {
+    "title": "Cleanup",
+    "subtitle": "Remove temporary files, caches, and unnecessary data",
+    "scan": "Scan",
+    "clean": "Clean",
+    "recoverable": "recoverable",
+    "selectAllSafe": "Select All Safe"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Configure A9 Optimizer",
+    "general": "General",
+    "appearance": "Appearance",
+    "notifications": "Notifications",
+    "ai": "AI Configuration",
+    "privacy": "Privacy",
+    "advanced": "Advanced",
+    "saveChanges": "Save Changes",
+    "saved": "Saved!"
+  },
+  "ai": {
+    "title": "AI Assistant",
+    "subtitle": "Get intelligent help for your PC",
+    "placeholder": "Ask about your PC...",
+    "thinking": "Thinking...",
+    "privacyProtected": "Privacy Protected"
+  },
+  "status": {
+    "healthy": "Healthy",
+    "attention": "Attention",
+    "critical": "Critical",
+    "initializing": "Initializing..."
+  },
+  "common": {
+    "search": "Search...",
+    "refresh": "Refresh",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "retry": "Retry",
+    "continue": "Continue",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "safe": "Safe",
+    "warning": "Warning",
+    "error": "Error"
+  }
+}
